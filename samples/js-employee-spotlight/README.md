@@ -35,7 +35,7 @@ Simple Web Part that demonstrates the use of SharePoint Framework for show casin
 
 Solution|Author(s)
 --------|---------
-js-employee-spotlight| SPS (Strategic Products and Services)
+js-employee-spotlight| Ravi Kumar B
 
 
 ## Version history
